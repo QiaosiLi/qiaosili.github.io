@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Qiaosi(Joss) Li, PhD]
+description: [I am a remote sensing researcher with a PhD in applied remote sensing, specializing in the application of optical and LiDAR remote sensing techniques in forestry, ecology, urban systems, and 3D modeling with publications in academic journals. I possess expertise in deep learning, machine learning, computer vision, data visualization, and programming tools such as Python, R, and Google Earth Engine.]
